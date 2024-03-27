@@ -8,6 +8,7 @@
 - ⚡ Fun fact **I THINK I AM BRAVE**
 
 <h3 align="left">Connect with me:</h3>
+<a href ="https://www.instagram.com">INSTAGRAM</a>
 <p align="left">
 </p>
 
