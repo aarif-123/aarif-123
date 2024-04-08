@@ -20,17 +20,15 @@
 <a href="https://fb.com/mohammed aarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed aarif" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed aarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed aarif" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/l.p.y university" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l.p.y university" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohammed aarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohammed aarif" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohammed aarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammed aarif" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohammed aarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohammed aarif" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohammed aarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed aarif" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mohammed aarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mohammed aarif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aarif-123"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aarif-123" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarif-123&show_icons=true&locale=en&layout=compact" alt="aarif-123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarif-123&show_icons=true&locale=en&layout=compact" alt="aarif-123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarif-123&show_icons=true&locale=en" alt="aarif-123" /></p>
 
