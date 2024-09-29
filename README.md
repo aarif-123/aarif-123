@@ -55,6 +55,6 @@ this another
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aarif-123/aarif-123/output/snake.svg" alt="Snake animation" />
+ 
 
 ###
