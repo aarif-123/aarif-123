@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://twitter.com/mohammed aarif" target="blank"><img src="https://img.shields.io/twitter/follow/mohammed aarif?logo=twitter&style=for-the-badge" alt="mohammed aarif" /></a> </p>
 
 
-this another
-
 ###
 
 <div align="center">
