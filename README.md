@@ -20,8 +20,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aarif-123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=7c3aed" />
-
 ## 🧠 `whoami`
 
 ```python
