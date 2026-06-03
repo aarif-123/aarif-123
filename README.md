@@ -1,193 +1,221 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Mohammed+Aarif;AI+%2F+ML+Engineer;Building+Intelligent+Systems;LLMs+%7C+RAG+%7C+Agentic+AI" alt="Typing SVG" />
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammed%20Aarif&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20AI&descAlignY=60&descColor=a78bfa&descSize=18&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%7C+GraphRAG+%7C+Agentic+AI;Data+Engineering+%7C+MLOps;From+research+to+deployment)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=aarif-123&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdaarif01/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarif-123)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdaarif92422@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdaarif01/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarif-123)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdaarif92422@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=aarif-123&style=for-the-badge&color=7c3aed&labelColor=1e1b4b)](https://github.com/aarif-123)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aarif-123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=7c3aed" />
+
+## 🧠 `whoami`
 
 ```python
 class MohammedAarif:
-    role       = "AI/ML Engineer & Software Developer"
-    university = "Lovely Professional University, Punjab (B.Tech CSE – AI/ML)"
-    cgpa       = 8.21
-    location   = "Jaipur, Rajasthan, India"
+    role     = "AI/ML Engineer"
+    edu      = "B.Tech CSE (AI/ML) @ LPU | CGPA: 8.21"
+    location = "Jaipur, Rajasthan 🇮🇳"
 
-    focus = [
-        "Large Language Models (LLMs)",
-        "Retrieval-Augmented Generation (RAG)",
-        "Agentic AI Systems",
-        "Data Engineering & MLOps",
+    expertise = [
+        "LLMs & Agentic AI Systems",
+        "GraphRAG & Knowledge Graphs",
+        "Data Engineering (Medallion)",
+        "NLP, Fine-tuning, MLOps",
     ]
 
-    currently_building = "Production-grade AI systems that actually work at scale"
-    philosophy         = "Build systems that are reliable first, then intelligent"
+    building  = "AI that works reliably in production"
+    patent    = "Autonomous Drone — Street Camera Maintenance"
+    hackathon = "Smart India Hackathon '25"
 ```
 
-> 🚀 **2nd-year CSE undergrad** building production-grade AI pipelines, research assistants, and data lakehouses.  
-> 📄 **Patent holder** · 🏆 **Smart India Hackathon participant** · 🎓 **IIT KGP ML certified**
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-007ACC?style=for-the-badge&logo=xgboost&logoColor=white)
-
-### 🗄️ Data Engineering
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Supabase%20(pgvector)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🚢 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<br clear="right"/>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🔬 [Aether AI Research Assistant](https://github.com/aarif-123/GraphRag-Research-Assistant)
-> *AI-powered academic research at scale*
+> GraphRAG · LLMs · FastAPI · Redis · Neo4j · arXiv MCP
 
-An intelligent research platform that discovers, retrieves, and reasons over **10K+ arXiv papers** using a hybrid **GraphRAG** architecture — combining semantic vector search with knowledge graph reasoning.
+An intelligent platform for discovering & reasoning over **10K+ academic papers** using a hybrid GraphRAG architecture — semantic vector search fused with knowledge graph reasoning.
 
-| Metric | Result |
-|--------|--------|
-| Hallucination reduction | **~35%** via retrieval + verification pipeline |
-| Response latency | **~4 seconds** avg (with Redis caching) |
-| Retrieval speed | **~40% faster** via optimized vector workflows |
-| Papers indexed | **10,000+** arXiv papers |
+**Key outcomes:**
+- 📉 ~35% reduction in hallucinated outputs
+- ⚡ ~4s avg response latency with Redis caching
+- 🚀 ~40% faster retrieval via optimized vector workflows
+- 🐳 Fully containerized with Docker + CI/CD
 
-**Stack:** `Python` `FastAPI` `Redis` `Docker` `Neo4j` `Supabase (pgvector)` `LLMs` `BAAI/bge-base-en` `arXiv MCP` `CI/CD`
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123/GraphRag-Research-Assistant)
 
----
+</td>
+<td width="50%">
 
-### 🏦 [Banking & Financial Data Lakehouse](https://github.com/aarif-123)
-> *Enterprise-grade data engineering on Azure*
+### 🏦 [Banking Data Lakehouse](https://github.com/aarif-123)
+> Azure Databricks · PySpark · Delta Lake · Unity Catalog
 
-End-to-end **Medallion Architecture** analytics platform on Azure Databricks — built for reliability, governance, and production-scale batch processing.
+Enterprise-grade Medallion Architecture analytics platform on Azure Databricks for production-scale banking data.
 
-- Scalable **PySpark ETL** pipelines: ingestion → validation → transformation → analytics-ready tables
-- **Delta Lake** + **Unity Catalog** for ACID-compliant storage and governance
-- Automated batch workflows via **Databricks Jobs**
+**Key outcomes:**
+- 🏗️ End-to-end ETL: ingestion → validation → analytics
+- 🔒 Unity Catalog governance + ACID Delta Lake storage
+- ⚙️ Automated batch workflows via Databricks Jobs
+- 📊 Analytics-ready tables for downstream reporting
 
-**Stack:** `Azure Databricks` `PySpark` `Delta Lake` `SQL` `Unity Catalog` `Databricks Jobs`
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🏠 [House Price Prediction System](https://github.com/aarif-123/House-Price-prediciton)
-> *Production ML with rigorous engineering*
+> XGBoost · Scikit-learn · Pandas · Prometheus
 
-A full ML pipeline on a real-world housing dataset (**1.4K+ samples, 81 features**) with zero data leakage and strong generalization.
+Production ML pipeline on a real-world dataset with **1,400+ samples & 81 features**. Zero data leakage. End-to-end Scikit-learn pipelines.
 
 | Metric | Score |
 |--------|-------|
 | R² Score | **≥ 0.89** |
 | RMSE | **~26K** |
-| Within 10% error | **~70% of predictions** |
+| Within 10% margin | **~70%** |
 
-**Stack:** `Python` `XGBoost` `Scikit-learn` `Pandas` `NumPy` `Prometheus`
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123/House-Price-prediciton)
 
----
+</td>
+<td width="50%">
 
-### 📧 [GPT-2 Email Spam Classifier](https://github.com/aarif-123/sms-classificarion/tree/main)
-> *Fine-tuning LLMs for discriminative tasks*
+### 📧 [GPT-2 Spam Classifier](https://github.com/aarif-123/sms-classificarion/tree/main)
+> PyTorch · Hugging Face · GPT-2 · PEFT · NLP
 
-Fine-tuned **GPT-2 (124M)** — a generative model — for binary spam classification. Applied **PEFT (selective fine-tuning)** strategy across 4,500 labeled messages.
+Fine-tuned **GPT-2 (124M)** — a generative model — for discriminative binary classification. Applied PEFT selective fine-tuning strategy on **4,500 labeled messages**.
 
 | Metric | Score |
 |--------|-------|
 | Accuracy | **86%** |
 | F1-Score | **85%** |
 
-**Stack:** `PyTorch` `Hugging Face Transformers` `GPT-2` `NLP` `Deep Learning`
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123/sms-classificarion/tree/main)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aarif-123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+### 🤖 AI / ML / LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-007ACC?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🗄️ Data Engineering
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Supabase%20pgvector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🚢 DevOps / MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aarif-123&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarif-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarif-123&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarif-123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" />
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Credentials
 
-| 🏅 Achievement | Details | Year |
-|---|---|---|
-| 📄 **Patent Filed** | Autonomous Drone System for Maintenance of Street Cameras | Jul 2025 |
-| 🏆 **Smart India Hackathon** | Psychological Assessment System for Early Suicide Detection | Sep 2025 |
-| 🎓 **Machine Learning** | IIT Kharagpur Certification | Sep 2025 |
-| ☁️ **Oracle Cloud Infrastructure** | Oracle Certified | Mar 2025 |
-| 🕸️ **Neo4j Fundamentals** | Neo4j Certified | Dec 2025 |
-| 🐍 **Python** | HackerRank Certified | Aug 2024 |
-| 💻 **LeetCode** | 200+ Problems Solved | Ongoing |
+<div align="center">
+
+| 🏅 | Achievement | Year |
+|:---:|---|:---:|
+| 📄 | **Patent Filed** — Autonomous Drone System for Maintenance of Street Cameras | 2025 |
+| 🏆 | **Smart India Hackathon** — Psychological Assessment System for Suicide Detection | 2025 |
+| 🎓 | **Machine Learning Certification** — IIT Kharagpur | 2025 |
+| 🕸️ | **Neo4j Fundamentals** — Neo4j Certified | 2025 |
+| ☁️ | **Oracle Cloud Infrastructure** — Oracle Certified | 2025 |
+| 🐍 | **Python** — HackerRank Certified | 2024 |
+| 💻 | **LeetCode** — 200+ Problems Solved (DSA & Algorithms) | Ongoing |
+
+</div>
 
 ---
 
-## 🌐 What I'm Working On
+## 🌱 Currently Exploring
 
-- 🔭 Building **production-grade Agentic AI** systems with multi-step reasoning
-- 🌱 Deepening expertise in **MLOps**, model monitoring, and deployment pipelines
-- 📚 Exploring **multimodal LLMs** and advanced RAG architectures
-- 🤝 Open to **research collaborations**, **internships**, and **open-source** contributions
+```
+├── 🤖  Agentic AI — multi-step reasoning, tool use, autonomous agents
+├── 📡  Multimodal LLMs — vision + language architectures
+├── 🔁  Advanced RAG — adaptive retrieval, re-ranking, evaluation
+└── 🏭  MLOps at scale — model monitoring, drift detection, deployment pipelines
+```
+
+---
+
+## 🤝 Open To
+
+- 🔬 Research collaborations on LLMs / RAG / Agentic systems
+- 💼 AI/ML internships and engineering roles
+- 🌐 Open-source contributions in AI & data engineering
+- 💬 Conversations about interesting problems in AI
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect
+### 📬 Let's Build Something Intelligent
 
-*I'm always open to interesting problems, collaboration, and conversations about AI.*
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdaarif01/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdaarif92422@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarif-123)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdaarif01/)
+[![Email](https://img.shields.io/badge/Drop%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdaarif92422@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore%20my%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarif-123)
 
 <br/>
 
-*"Build systems that are reliable first, then make them intelligent."*
+> *"The goal isn't to build AI that's impressive — it's to build AI that's reliable."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&reversal=false" />
 
 </div>
