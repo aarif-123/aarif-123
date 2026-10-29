@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdaarif01/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarif-123)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdaarif92422@gmail.com)
-[![StockPulse Live](https://img.shields.io/badge/StockPulse%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://stock-pulse-psi-seven.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=aarif-123&style=for-the-badge&color=7c3aed&labelColor=1e1b4b)](https://github.com/aarif-123)
 
 </div>
@@ -26,7 +25,7 @@
 ```python
 class MohammedAarif:
     role     = "AI/ML Engineer & Full-Stack Developer"
-    edu      = "B.Tech CSE (AI/ML) @ LPU | CGPA: 8.21"
+    edu      = "B.Tech CSE (AI/ML) @ LPU | CGPA: 8.29"
     location = "Jaipur, Rajasthan 🇮🇳"
 
     expertise = [
@@ -43,95 +42,6 @@ class MohammedAarif:
 ```
 
 ---
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ [StockPulse — Enterprise B2B ERP](https://github.com/aarif-123/StockPulse)
-> React 19 · TypeScript · Node.js · Prisma · PostgreSQL · Docker
-
-Production-grade **multi-tenant B2B SaaS ERP** unifying CRM, multi-warehouse inventory, BOM assemblies, statutory GST challans (Rule 55), customer financial ledgers, and super-admin governance — in a single modular monolith.
-
-**Key capabilities:**
-- 🔒 5-role RBAC: `SUPER_ADMIN` · `ORG_ADMIN` · `SALES` · `WAREHOUSE` · `ACCOUNTS`
-- 🧾 Auto CGST/SGST/IGST tax splits & statutory challan generation (Rule 55)
-- 🤖 DOST AI Copilot — role-scoped, executes real backend actions (no mocks)
- 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://stock-pulse-psi-seven.vercel.app)
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123/StockPulse)
-
-</td>
-<td width="50%">
-
-### 🔬 [Aether AI Research Assistant](https://github.com/aarif-123/GraphRag-Research-Assistant)
-> GraphRAG · LLMs · FastAPI · Redis · Neo4j · arXiv MCP
-
-An intelligent platform for discovering & reasoning over **10K+ academic papers** using a hybrid GraphRAG architecture — semantic vector search fused with knowledge graph reasoning.
-
-**Key outcomes:**
-- 📉 ~35% reduction in hallucinated outputs
-- ⚡ ~4s avg response latency with Redis caching
-- 🚀 ~40% faster retrieval via optimized vector workflows
-- 🐳 Fully containerized with Docker + CI/CD
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123/GraphRag-Research-Assistant)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏦 [Banking Data Lakehouse](https://github.com/aarif-123)
-> Azure Databricks · PySpark · Delta Lake · Unity Catalog
-
-Enterprise-grade Medallion Architecture analytics platform on Azure Databricks for production-scale banking data.
-
-**Key outcomes:**
-- 🏗️ End-to-end ETL: ingestion → validation → analytics
-- 🔒 Unity Catalog governance + ACID Delta Lake storage
-- ⚙️ Automated batch workflows via Databricks Jobs
-- 📊 Analytics-ready tables for downstream reporting
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123)
-
-</td>
-<td width="50%">
-
-### 🏠 [House Price Prediction System](https://github.com/aarif-123/House-Price-prediciton)
-> XGBoost · Scikit-learn · Pandas · Prometheus
-
-Production ML pipeline on a real-world dataset with **1,400+ samples & 81 features**. Zero data leakage. End-to-end Scikit-learn pipelines.
-
-| Metric | Score |
-|--------|-------|
-| R² Score | **≥ 0.89** |
-| RMSE | **~26K** |
-| Within 10% margin | **~70%** |
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123/House-Price-prediciton)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📧 [GPT-2 Spam Classifier](https://github.com/aarif-123/sms-classificarion/tree/main)
-> PyTorch · Hugging Face · GPT-2 · PEFT · NLP
-
-Fine-tuned **GPT-2 (124M)** — a generative model — for discriminative binary classification. Applied PEFT selective fine-tuning strategy on **4,500 labeled messages**.
-
-| Metric | Score |
-|--------|-------|
-| Accuracy | **86%** |
-| F1-Score | **85%** |
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarif-123/sms-classificarion/tree/main)
-
-</td>
-<td width="50%">
 
 ### 🧩 More Coming Soon...
 > Always building. Always shipping.
@@ -154,25 +64,8 @@ Fine-tuned **GPT-2 (124M)** — a generative model — for discriminative binary
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-007ACC?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐 Full-Stack Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### 🗄️ Data Engineering
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -182,10 +75,8 @@ Fine-tuned **GPT-2 (124M)** — a generative model — for discriminative binary
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚢 DevOps / MLOps
+### 🚢 DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
@@ -233,14 +124,6 @@ Fine-tuned **GPT-2 (124M)** — a generative model — for discriminative binary
 
 ---
 
-## 🤝 Open To
-
-- 🔬 Research collaborations on LLMs / RAG / Agentic systems
-- 💼 AI/ML internships and engineering roles
-- 🌐 Open-source contributions in AI & data engineering
-- 🏗️ Full-stack SaaS & product engineering opportunities
-- 💬 Conversations about interesting problems in AI
-
 ---
 
 <div align="center">
@@ -250,8 +133,6 @@ Fine-tuned **GPT-2 (124M)** — a generative model — for discriminative binary
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdaarif01/)
 [![Email](https://img.shields.io/badge/Drop%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdaarif92422@gmail.com)
 [![GitHub](https://img.shields.io/badge/Explore%20my%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarif-123)
-[![StockPulse](https://img.shields.io/badge/StockPulse%20Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://stock-pulse-psi-seven.vercel.app)
-
 <br/>
 
 > *"The goal isn't to build AI that's impressive — it's to build AI that's reliable."*
