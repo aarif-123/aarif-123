@@ -110,21 +110,7 @@ class MohammedAarif:
 
 </div>
 
----
 
-## 🌱 Currently Exploring
-
-```
-├── 🤖  Agentic AI — multi-step reasoning, tool use, autonomous agents
-├── 📡  Multimodal LLMs — vision + language architectures
-├── 🔁  Advanced RAG — adaptive retrieval, re-ranking, evaluation
-├── 🏭  MLOps at scale — model monitoring, drift detection, deployment pipelines
-└── 🧩  Full-Stack SaaS Architecture — multi-tenancy, RBAC, real-time systems
-```
-
----
-
----
 
 <div align="center">
 
